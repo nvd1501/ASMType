@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Product A",
+      "price": "100,000",
+      "image": "https://cdn.shopify.com/s/files/1/0448/3081/8454/products/09LayeredGrey-1.jpg?v=1675758235&width=720",
+      "description": "decriptin",
+      "categoryId": "hung"
+    },
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": "1000",
+      "image": "https://cdn.shopify.com/s/files/1/0448/3081/8454/products/09LayeredGrey-1.jpg?v=1675758235&width=720",
+      "description": "decriptin",
+      "categoryId": "hung"
+    }
+  ],
+  "users": [
+    
+    
+  ]
+  
+  
+}
